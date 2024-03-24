@@ -1,0 +1,271 @@
+
+/* First Div Styles */
+/* *{
+    border: 1px solid;
+} */
+
+/* Outside the 1000px */
+
+@media screen and (min-width:1000px) {      
+
+}
+
+/* Inside the 1000px */
+
+@media screen and (max-width:1000px) {
+    
+}
+
+/* * p{
+    border: 1px solid;
+} */
+
+
+
+
+
+@media screen and (min-width:1000px) {      
+.logo1png{
+    height: 50px;
+}
+}
+@media screen and (max-width:1000px) {      
+    .logo1png{
+        height: 50px;
+    }
+    }
+
+    @media screen and (min-width:400px) {      
+        .logo1png{
+            height: 50px;
+        }
+        }
+
+@media screen and (min-width:1000px) {      
+    .sliderbutton1{
+        margin-left: 10px;
+        margin-top: 230px;
+    }
+    .sliderbutton2{
+        margin-right: 10px;
+        margin-top: 230px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .buttonnav{
+        margin-top: -200px;
+        background-color: black;
+    }
+}
+
+
+.textcolor{
+    color: rgb(76, 75, 75);
+}
+.fontsize{
+    font-size: 13px;
+}
+.iconcolor{
+    color: rgb(80, 115, 252);
+}
+.texthover{
+    transition-duration: 0.1s;
+}
+.texthover:hover{
+    color: rgb(46, 127, 240);
+}
+@media screen and (min-width:1000px) {      
+    .slide1{
+        height: 650px;
+    }
+}
+
+
+/* Second Div Styles */
+
+
+.togglerbutton{
+    margin-left: -0px;
+    margin-top: 10px;
+}
+.allhover{
+    transition-duration: 0.1s;
+}
+.allhover:hover{
+    color: rgb(46, 127, 240);
+}
+@media screen and (min-width: 750px) {
+    .navmove{
+        width: 200px;
+        margin-left: 400px;
+        margin-top: -300px;
+        border: 1px solid;
+    }
+}
+.facebook{
+    border-radius: 35px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    transition-duration: 0.1s;
+    font-size: 20px;
+    margin-left: 1000px;
+    margin-top: -100px;
+}
+.facebook:hover{
+    background-color: rgb(29, 74, 171);
+    color: white;
+}
+.twitter{
+    border-radius: 35px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    transition-duration: 0.1s;
+    font-size: 20px;
+    margin-left: 1010px;
+    margin-top: -100px;
+}
+.twitter:hover{
+    background-color: rgb(27, 141, 194);
+    color: white;
+}
+
+.instagram{
+    border-radius: 35px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    transition-duration: 0.1s;
+    font-size: 20px;
+    margin-left: 1010px;
+    margin-top: -100px;
+}
+.instagram:hover{
+    background-color: rgb(159, 93, 27);
+    color: white;
+}
+
+.searchwidth{
+    width: 950px;
+    height: 100px;
+}
+.searchdropdown{
+    margin-left: 100px;
+}
+.navdiv{
+    margin-left: 100px;
+}
+
+/* Fourth Div */
+
+
+@media screen and (min-width:1000px) {
+    .h1div{
+        display: none;
+    }
+}
+@media screen and (max-width:1000px) {
+    .h2div{
+        display: none;
+    }
+}
+
+
+
+@media screen and (min-width:1000px) {
+    .card1,.card2,.card3,.card4,.card5,.card6{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        
+    }
+}
+
+.cardhover{
+    transition-duration: 0.5s;
+}
+.cardhover:hover{
+    box-shadow: 8px 8px 8px 8px  rgb(56, 56, 56);
+}
+
+.filterchange{
+    filter: grayscale(300%);
+}
+
+@media screen and (min-width:1000px) {       
+    .viewbutton{
+        padding-left: 50px;
+        padding-right: 50px;
+        margin-left: 280px;
+    }
+}
+@media screen and (min-width:1000px) {      
+    .listcards2{
+        margin-top: 300px;
+    }
+}
+@media screen and (max-width:1000px) {      
+    .listcards3{
+        margin-top: 80px;
+    }
+}
+@media screen and (min-width:1000px) {      
+    .listletters{
+        margin-top: 300px;
+    }
+}
+
+
+.palmimage{
+    transition-duration: 0.5s;
+}
+.palmimage:hover{
+    filter: grayscale(100%);
+}
+
+
+.palmbutton:hover{
+    background-color: rgb(8, 72, 162);
+}
+
+
+/* @media screen and (min-width:1000px) {      
+    .exclusivediv{
+        height: 600px;
+    }
+} */
+
+@media screen and (min-width:1000px) {      
+    .agentcard{
+        margin-left: 1000px;
+        margin-top: -740px;
+    }
+}
+@media screen and (min-width:1000px) {      
+    .newsdiv{
+        margin-left: 100px;
+        margin-top: 10px;
+        width: 200px;
+    }
+}
+
+@media screen and (min-width:1000px) {      
+    .newsletter{
+        margin-left: 980px;
+        margin-top: 10px;
+        width: 300px;
+    }
+}
+
+@media all and(max-width:1000px){
+    .secondamazing{
+        width: 300px;
+    }
+}
+

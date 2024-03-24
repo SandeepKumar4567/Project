@@ -1,0 +1,123 @@
+/* First Div */
+
+@media screen and (min-width:1000px) {      
+    .logo1png{
+        height: 50px;
+    }
+    }
+
+    .fontsize{
+        font-size: 13px;
+    }
+    .iconcolor{
+        color: rgb(80, 115, 252);
+    }
+    .texthover{
+        transition-duration: 0.1s;
+        color: black;
+    }
+    .texthover:hover{
+        color: rgb(46, 127, 240);
+    }
+
+    .facebook{
+        border-radius: 35px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+        transition-duration: 0.1s;
+        font-size: 20px;
+        margin-left: 1000px;
+        margin-top: -100px;
+    }
+    .facebook:hover{
+        background-color: rgb(29, 74, 171);
+        color: white;
+    }
+    .twitter{
+        border-radius: 35px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+        transition-duration: 0.1s;
+        font-size: 20px;
+        margin-left: 1010px;
+        margin-top: -100px;
+    }
+    .twitter:hover{
+        background-color: rgb(27, 141, 194);
+        color: white;
+    }
+    
+    .instagram{
+        border-radius: 35px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+        transition-duration: 0.1s;
+        font-size: 20px;
+        margin-left: 1010px;
+        margin-top: -100px;
+    }
+    .instagram:hover{
+        background-color: rgb(159, 93, 27);
+        color: white;
+    }
+    
+    .searchwidth{
+        width: 950px;
+        height: 100px;
+    }
+    .searchdropdown{
+        margin-left: 100px;
+    }
+    .navdiv{
+        margin-left: 100px;
+    }
+
+     /* First Div End */
+
+     @media screen and (min-width:1000px) {      
+        .contactinfo{
+            margin-left: 980px;
+            margin-top: 100px;
+            position: absolute;
+            padding-top: 400px;
+        }
+     }
+
+     @media screen and (min-width:1000px) {      
+        .contactdiv{
+           width: 300px;
+        }
+     }
+     
+     .agentface{
+        transition-duration: 0.5s;
+        color: black;
+     }
+     .agentface:hover{
+        color: white;
+        background-color: rgb(29, 74, 171);
+     }
+
+     .agenttwit{
+        transition-duration: 0.5s;
+        color: black;
+     }
+     .agenttwit:hover{
+        color: white;
+        background-color: rgb(27, 141, 194);
+     }
+
+     .agentlink{
+        transition-duration: 0.5s;
+        color: black;
+     }
+     .agentlink:hover{
+        color: white;
+        background-color: rgb(159, 93, 27);
+     }

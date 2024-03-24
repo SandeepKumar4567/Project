@@ -1,0 +1,114 @@
+/* First Div */
+
+@media screen and (min-width:1000px) {      
+    .logo1png{
+        height: 50px;
+    }
+    }
+
+    .fontsize{
+        font-size: 13px;
+    }
+    .iconcolor{
+        color: rgb(80, 115, 252);
+    }
+    .texthover{
+        transition-duration: 0.1s;
+        color: black;
+    }
+    .texthover:hover{
+        color: rgb(46, 127, 240);
+    }
+
+    .facebook{
+        border-radius: 35px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+        transition-duration: 0.1s;
+        font-size: 20px;
+        margin-left: 1000px;
+        margin-top: -100px;
+    }
+    .facebook:hover{
+        background-color: rgb(29, 74, 171);
+        color: white;
+    }
+    .twitter{
+        border-radius: 35px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+        transition-duration: 0.1s;
+        font-size: 20px;
+        margin-left: 1010px;
+        margin-top: -100px;
+    }
+    .twitter:hover{
+        background-color: rgb(27, 141, 194);
+        color: white;
+    }
+    
+    .instagram{
+        border-radius: 35px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+        transition-duration: 0.1s;
+        font-size: 20px;
+        margin-left: 1010px;
+        margin-top: -100px;
+    }
+    .instagram:hover{
+        background-color: rgb(159, 93, 27);
+        color: white;
+    }
+    
+    .searchwidth{
+        width: 950px;
+        height: 100px;
+    }
+    .searchdropdown{
+        margin-left: 100px;
+    }
+    .navdiv{
+        margin-left: 100px;
+    }
+
+     /* First Div End */
+
+     .residential{
+        font-weight: bolder;
+        color: white;
+    }
+    .for{
+        font-weight: 650;
+        color: white;
+    }
+
+    @media screen and (min-width:1000px) {      
+        .agentcard2{
+            margin-left: 1000px;
+        }
+    }
+    @media screen and (min-width:1000px) {      
+        .appartment2{
+            margin-left: 1000px;
+            margin-top: -1050px;
+        }
+    }
+    @media screen and (min-width:1000px) {      
+        .newsletter2{
+            margin-left: 1000px;
+            margin-top: 50px;
+        }
+    }
+    @media screen and (min-width:1000px) {      
+        .agentcard{
+            margin-left: 1000px;
+            margin-top: -20px;
+        }
+    }
